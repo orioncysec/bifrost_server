@@ -1,0 +1,5 @@
+{
+    "name": "xhunter-server",
+    "description": "backbone for Bifrost app",
+    "repository": "https://github.com/orioncysec/bifrost_server"
+}
